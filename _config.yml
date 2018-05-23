@@ -36,9 +36,9 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-gems: 
+plugins: 
   - jekyll-multiple-languages-plugin
 
-languages: ["en", "fa", "de"]
+languages: ["en", "fa"]
 
 exclude_from_localizations: ["javascript", "images", "css"]
