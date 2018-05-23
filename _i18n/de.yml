@@ -1,0 +1,7 @@
+global:
+  persian: "Farsi"
+  english: "Englisch"
+
+menu:
+  home: "Homepage"
+
