@@ -38,3 +38,7 @@ descriptions:
 
 gems: 
   - jekyll-multiple-languages-plugin
+
+languages: ["en", "fa"]
+
+exclude_from_localizations: ["javascript", "images", "css"]
